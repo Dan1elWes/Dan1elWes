@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Daniel Wesley!
 
- How to Reach Me
+ How to Reach Me <br/>
  Email: vdivinity100@gmail.com
 
  LinkedIn: https://www.linkedin.com/in/daniel-wesley-006b4b342/
