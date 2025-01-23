@@ -1,5 +1,12 @@
 ## Hi there 👋, I'm Daniel Wesley!
 
+ How to Reach Me
+ Email: vdivinity100@gmail.com
+
+ LinkedIn: https://www.linkedin.com/in/daniel-wesley-006b4b342/
+
+
+
 <!--
 **Dan1elWes/Dan1elWes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
