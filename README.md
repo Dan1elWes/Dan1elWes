@@ -2,7 +2,7 @@
 
  How to Reach Me: <br/>
  
- Email: vdivinity100@gmail.com
+ Email: vdivinity100@gmail.com <br/>
  LinkedIn: https://www.linkedin.com/in/daniel-wesley-006b4b342/
 
 
